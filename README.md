@@ -1,4 +1,4 @@
-# Networking Commands
+# Networking Commands.
 
 ## Network Information
 
